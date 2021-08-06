@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pixi-test",
+    "slug": "pixi-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pixi-test"
+}
