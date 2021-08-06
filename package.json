@@ -7,7 +7,18 @@
     "start": "react-native start"
   },
   "dependencies": {
+    "@pixi/constants": "^6.1.1",
+    "@pixi/core": "^6.1.1",
+    "@pixi/filter-alpha": "^6.1.1",
+    "@pixi/filter-blur": "^6.1.1",
+    "@pixi/math": "^6.1.1",
+    "@pixi/runner": "^6.1.1",
+    "@pixi/settings": "^6.1.1",
+    "@pixi/ticker": "^6.1.1",
+    "@pixi/utils": "^6.1.1",
     "expo": "~42.0.1",
+    "expo-gl": "^10.4.2",
+    "expo-pixi": "^1.2.0",
     "expo-splash-screen": "~0.11.2",
     "expo-status-bar": "~1.0.4",
     "expo-updates": "~0.8.1",
